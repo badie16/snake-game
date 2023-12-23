@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	D:\programation\coud\java\snake game\sanke game.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\programation\coud\java\snake game\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-20
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "D:\programation\coud\java\snake game\sanke game.exe"
+Args length:	58/32768 chars
+Exit code:	0
